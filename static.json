@@ -2,6 +2,7 @@
   "headers": {
     "/*": {
       "X-Author": "id71293382"
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
